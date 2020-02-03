@@ -5,7 +5,7 @@ public class App {
 		// TODO Auto-generated method stub
 		 
 		double itemPrice = 20.75;
-		double moneyWallet = 40.55;
+		double moneyWallet = 40.25;
 		int numberFriends = 120;
 		int nicoleAge =40;
 		int friendsPerYear = 0;
